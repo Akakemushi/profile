@@ -6,8 +6,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  max-width: 150%;
-  max-height: 150%;
+  max-width: 140%;
+  max-height: 140%;
   object-fit: contain;
   border-radius: 50%;
   border-style: solid;
@@ -41,6 +41,8 @@ h2 {
   padding: 50px;
   border-radius: 12px;
   margin: 25px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .blue-border {
